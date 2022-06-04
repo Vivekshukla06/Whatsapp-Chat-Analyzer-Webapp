@@ -1,5 +1,5 @@
 # Whatsapp-Chat-Analyzer-Webapp
-Prerequisites
+MALOUT INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY, MALOUT
 Before you can get started, ensure that the following packages are installed in your Python environment (I recommend using Jupyter since you can see intermediate outputs easily while following the steps in this tutorial):
 Pandas
 Seaborn
