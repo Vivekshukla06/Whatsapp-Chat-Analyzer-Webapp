@@ -1,13 +1,14 @@
 # Whatsapp-Chat-Analyzer-Webapp
 
-Prerequisites :
+## Prerequisites :
 
 Before you can get started, ensure that the following packages are installed in your Python environment .
 ### Pandas
 ### Seaborn
 ### Matplotlib
 
-## step 1.Data Collection
+
+## Step 1. Data Collection
 we require a whatsapp conversation to analyze. Open a whatsapp conversation you wish to analyze and use the “Export Chat” functionality to send the entire conversation in text format to your email ID.
 
 Important Note: When prompted by whatsapp, ensure that you do not export any media otherwise it might take ages to export.
@@ -23,7 +24,7 @@ In the data preparation we convert the data into a particular pattern using regu
 
 ## Step 3.Exploratory Data Analysis(EDA)
 
-In the EDA we look at five important points to ask:
+In the EDA we look at these important points to explore:
 1. Overall statistics of the chat including total messages , total links , total medias sent etc.
 2. Monthly & Daily timelines of the user message
 3. Most busy day & most busy month of the group chat
@@ -52,5 +53,11 @@ Visualization of the various statistics is done using the ## Streamlit App.
 
 ![most busy users](https://user-images.githubusercontent.com/68411214/171999330-9f536f51-45d5-4e23-918b-e3db45c63e2f.png)
 
+
+## Step 4. Deployment on Cloud Platform 
+
+This project is deployed at ## Heroku : Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+
+![ui](https://user-images.githubusercontent.com/68411214/171999593-8c884555-b6c7-4566-a5a9-ada571b739d3.png)
 
 
