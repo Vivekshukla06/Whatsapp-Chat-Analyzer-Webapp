@@ -34,14 +34,23 @@ In the EDA we look at five important points to ask:
 
 ## Step 4.Visualization of Chat 
 
+Visualization of the various statistics is done using the ## Streamlit App.
+
 ![TOP stats](https://user-images.githubusercontent.com/68411214/171999246-b445f1e9-f485-4f2a-ad0e-82c66ee8b5b1.png)
 
 ![monthly timeline](https://user-images.githubusercontent.com/68411214/171999251-c887a5c7-b384-43c0-8b8b-ea686686dd1d.png)
+
 ![daily timeline](https://user-images.githubusercontent.com/68411214/171999252-6b345126-25a5-40fe-b00b-5f1c4d9ef0f7.png)
+
 ![weekly activity map](https://user-images.githubusercontent.com/68411214/171999254-82464c1e-7b9a-49b0-a8ec-363cc34752e4.png)
+
 ![activity map](https://user-images.githubusercontent.com/68411214/171999257-b8b01aa9-4516-44e7-b0fc-109675189042.png)
+
 ![wordcloud](https://user-images.githubusercontent.com/68411214/171999272-2dc6f24f-9cf7-4bdf-8263-1b3c2bbac788.png)
+
 ![emoji analysis](https://user-images.githubusercontent.com/68411214/171999275-d67a26e5-f35f-41de-a7bb-47a0e504a2cc.png)
+
+![most busy users](https://user-images.githubusercontent.com/68411214/171999330-9f536f51-45d5-4e23-918b-e3db45c63e2f.png)
 
 
 
